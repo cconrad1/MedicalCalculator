@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medial Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtTitle">Convert Patient Weight</string>
+    <string name="btnConvert">Convert Weight</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="radKiloToLb">Convert Kilograms to Pounds</string>
+    <string name="radLbToKilo">Convert Pounds to Kilograms</string>
+</resources>
